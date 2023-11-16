@@ -1,0 +1,15 @@
+:root {
+  --black: black;
+  --light-blue: #00d5ff;
+}
+.footer-box {
+  color: #ffffff;
+}
+.footer-box h1 {
+  color: var(--light-blue);
+  font-size: 3rem;
+}
+.footer-box span {
+  font-size: 1rem;
+}
+
