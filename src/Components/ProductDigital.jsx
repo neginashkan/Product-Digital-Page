@@ -10,8 +10,8 @@ export default function ProductDigital() {
                         <div className="details">
                             <div className="detail-box">
                                 <div className="detail-label">
-                                    <img src="/public/Images/blue-icon.png" alt="" className="detail--icon" />
                                     <h4 className="detail--label">نوع محصول</h4>
+                                    <img src="/public/Images/blue-icon.png" alt="" className="detail--icon" />
                                 </div>
                                 <div className="detail-buttons">
                                     <button className="detail-button">In-Game</button>
@@ -20,8 +20,8 @@ export default function ProductDigital() {
                             </div>
                             <div className="detail-box">
                                 <div className="detail-label">
-                                    <img src="/public/Images/blue-icon.png" alt="" className="detail--icon" />
                                     <h4 className="detail--label">ریجن</h4>
+                                    <img src="/public/Images/blue-icon.png" alt="" className="detail--icon" />
                                 </div>
                                 <div className="detail-buttons">
                                     <button className="detail-button">Country</button>
@@ -31,8 +31,8 @@ export default function ProductDigital() {
                             </div>
                             <div className="detail-box">
                                 <div className="detail-label">
-                                    <img src="/public/Images/blue-icon.png" alt="" className="detail--icon" />
                                     <h4 className="detail--label">مقدار (عنوان محصول) (واحد شمارش)</h4>
+                                    <img src="/public/Images/blue-icon.png" alt="" className="detail--icon" />
                                 </div>
                                 <div className="detail-buttons">
                                     <button className="detail-button">Number</button>
@@ -45,8 +45,8 @@ export default function ProductDigital() {
                             </div>
                             <div className="detail-box">
                                 <div className="detail-label">
-                                    <img src="/public/Images/blue-icon.png" alt="" className="detail--icon" />
                                     <h4 className="detail--label">پلتفرم</h4>
+                                    <img src="/public/Images/blue-icon.png" alt="" className="detail--icon" />
                                 </div>
                                 <div className="detail-buttons">
                                     <button className="detail-button">Platform A</button>
@@ -58,8 +58,8 @@ export default function ProductDigital() {
                         </div>
                         <div className="detail-user-account">
                             <div className="detail-label">
-                                <img src="/public/Images/blue-icon.png" alt="" className="detail--icon" />
                                 <h4 className="detail--label">اطلاعات حساب کاربری</h4>
+                                <img src="/public/Images/blue-icon.png" alt="" className="detail--icon" />
                             </div>
                             <div className="detail-personal-information">
                                 <input type="text" placeholder="Username" name="" id="" className="detail-personal-information-input-style" />
