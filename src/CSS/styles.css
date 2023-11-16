@@ -1,6 +1,6 @@
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; */
 
 
 *{
@@ -8,8 +8,3 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-body{
-    background-color: black;
-}
-
