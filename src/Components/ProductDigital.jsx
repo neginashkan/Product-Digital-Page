@@ -14,7 +14,7 @@ export default function ProductDigital() {
                                     <img src="/public/Images/blue-icon.png" alt="" className="detail--icon" />
                                 </div>
                                 <div className="detail-buttons">
-                                    <button className="detail-button">In-Game</button>
+                                    <button className="detail-button active-button">In-Game</button>
                                     <button className="detail-button">Redeem Code</button>
                                 </div>
                             </div>
@@ -24,7 +24,7 @@ export default function ProductDigital() {
                                     <img src="/public/Images/blue-icon.png" alt="" className="detail--icon" />
                                 </div>
                                 <div className="detail-buttons">
-                                    <button className="detail-button">Country</button>
+                                    <button className="detail-button active-button">Country</button>
                                     <button className="detail-button">Country</button>
                                     <button className="detail-button">Country</button>
                                 </div>
@@ -35,12 +35,12 @@ export default function ProductDigital() {
                                     <img src="/public/Images/blue-icon.png" alt="" className="detail--icon" />
                                 </div>
                                 <div className="detail-buttons">
+                                    <button className="detail-button active-button">Number</button>
                                     <button className="detail-button">Number</button>
                                     <button className="detail-button">Number</button>
                                     <button className="detail-button">Number</button>
                                     <button className="detail-button">Number</button>
-                                    <button className="detail-button">Number</button>
-                                    <button className="detail-button">Number</button>
+                                    <button className="detail-button active-button">Number</button>
                                 </div>
                             </div>
                             <div className="detail-box">
