@@ -1,6 +1,6 @@
-import "./CSS/styles.css";
+import './index.css'
 import ProductDigital from "./Components/ProductDigital"
-import Footer from "./Components/Footer"
+import Footer from "./components/Footer"
 
 
 export default function Page() {
